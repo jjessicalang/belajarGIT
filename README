@@ -1,0 +1,7 @@
+branch : membuat branch baru
+echo hello > "namaFile.txt" : membuat file baru
+add : file baru
+commit : melakukan commit
+checkout : pindah working directory
+merge : merge cabang 'a' ke cabang 'main'
+push : sinkronisasi repo local ke repo remote di github
