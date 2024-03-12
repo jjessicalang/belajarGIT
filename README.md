@@ -8,3 +8,15 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GIT
+
+git branch '...'
+membuat cabang baru
+
+git checkout 'cabang baru'
+pindah working directory ke cabang baru
+
+git checkout main
+pindah working directory ke jalur utama (main)
+
+git add '...'
+menambahkan file
